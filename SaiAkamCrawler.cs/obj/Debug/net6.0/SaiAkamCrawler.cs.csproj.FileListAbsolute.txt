@@ -1,0 +1,17 @@
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\bin\Debug\net6.0\SaiAkamCrawler.cs.exe
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\bin\Debug\net6.0\SaiAkamCrawler.cs.deps.json
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\bin\Debug\net6.0\SaiAkamCrawler.cs.runtimeconfig.json
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\bin\Debug\net6.0\SaiAkamCrawler.cs.dll
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\bin\Debug\net6.0\SaiAkamCrawler.cs.pdb
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\obj\Debug\net6.0\SaiAkamCrawler.cs.csproj.AssemblyReference.cache
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\obj\Debug\net6.0\SaiAkamCrawler.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\obj\Debug\net6.0\SaiAkamCrawler.cs.AssemblyInfoInputs.cache
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\obj\Debug\net6.0\SaiAkamCrawler.cs.AssemblyInfo.cs
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\obj\Debug\net6.0\SaiAkamCrawler.cs.csproj.CoreCompileInputs.cache
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\obj\Debug\net6.0\SaiAkamCrawler.cs.dll
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\obj\Debug\net6.0\refint\SaiAkamCrawler.cs.dll
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\obj\Debug\net6.0\SaiAkamCrawler.cs.pdb
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\obj\Debug\net6.0\SaiAkamCrawler.cs.genruntimeconfig.cache
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\obj\Debug\net6.0\ref\SaiAkamCrawler.cs.dll
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\vikra\Development\Software\Crawler Challenge\SaiAkamCrawler.cs\obj\Debug\net6.0\SaiAkamCrawler.cs.csproj.CopyComplete

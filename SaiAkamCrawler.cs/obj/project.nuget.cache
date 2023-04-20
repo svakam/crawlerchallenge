@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3CwxQJaRQMJFfk4eBcc+DDJxlxvu2zxShbBs8IhZP6RxL3ceQaXvO6R/4T9pUMbal9kIfEDRHoaUU7esuAvyBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikra\\Development\\Software\\Crawler Challenge\\SaiAkamCrawler.cs\\SaiAkamCrawler.cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikra\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
